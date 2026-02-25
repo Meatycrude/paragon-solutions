@@ -49,7 +49,7 @@ Paragon Solutions is a comprehensive enterprise resource planning (ERP) system d
 ### Backend
 - **Framework**: [Django](https://www.djangoproject.com/)
 - **Language**: Python 3.12+
-- **Database**: SQLite (Development) / MySQL (Production ready)
+- **Database**: MySQL
 - **ORM**: Django ORM
 
 ## 📂 Project Structure
@@ -195,4 +195,4 @@ For support, please open an issue on the GitHub repository.
 - [Django](https://www.djangoproject.com/) - For the powerful backend framework
 - [Next.js](https://nextjs.org/) - For the modern frontend framework
 - [Tailwind CSS](https://tailwindcss.com/) - For the utility-first styling
-- [SQLite](https://www.sqlite.org/)/[MySQL](https://www.mysql.com/) - For the robust database
+- [MySQL](https://www.mysql.com/) - For the robust database
