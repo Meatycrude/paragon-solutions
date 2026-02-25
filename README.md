@@ -1,1 +1,1 @@
-# paragon-solutions
+# Paragon Solutions
